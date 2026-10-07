@@ -1,0 +1,21 @@
+name: dbforge-mcp
+displayName: DBForge - Autonomous Database, Prisma & SQL Engine MCP
+description: Complete database architect for Cursor, Claude & Windsurf. Generates PostgreSQL/MySQL/Supabase SQL DDL, Prisma & Drizzle ORM models, analyzes & optimizes slow SQL queries, and builds realistic mock seed datasets.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/dbforge-mcp
+repository: https://github.com/AmyGraphics/dbforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/dbforge-mcp/main/icon.png
+keywords:
+  - database
+  - sql
+  - postgresql
+  - prisma
+  - drizzle-orm
+  - supabase
+  - sql-optimizer
+  - mock-data
+  - cursor
+  - claude
+startCommand:
+  type: http
+  url: https://dbforge-api.agentweb-hub.workers.dev/mcp

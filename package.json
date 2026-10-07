@@ -1,0 +1,9 @@
+{
+  "name": "dbforge-mcp",
+  "version": "1.0.0",
+  "description": "Autonomous Database Architect, Prisma & Drizzle ORM, SQL Optimizer & Mock Seed Engine MCP for Cursor, Claude Code, and Windsurf",
+  "main": "index.js",
+  "type": "module",
+  "author": "tofan96you",
+  "license": "MIT"
+}
