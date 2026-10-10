@@ -12,7 +12,7 @@ Autonomous Database Architect, Prisma & Drizzle ORM, SQL Optimizer & Mock Seed E
 `https://dbforge-api.agentweb-hub.workers.dev/mcp`
 
 
-## 🔴 NEW in v1.1 — Live Tool: `lint_sql_schema`
+## 🔴 NEW in v1.1 — Live Tool: `db.lint_schema`
 
 Parses pasted CREATE TABLE DDL with REAL analysis: missing primary keys, unindexed foreign keys, float money columns, and ready-to-run CREATE INDEX statements - every finding from YOUR schema.
 
